@@ -1,2 +1,2 @@
 FIRST COMMIT from bradiya-basafa:main
-commit message = second commit from zoghiat:main
+second commit from your-zoghiat:main
