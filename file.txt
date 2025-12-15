@@ -10,4 +10,3 @@ third commit zoghiat:feature
 forth commit zoghiat:feature
 fith commit zoghiat:featur
 sixth commit zoghiat:feature
-seventh commit on desktop zoghiat:feature
